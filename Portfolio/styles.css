@@ -7,7 +7,7 @@ html{
     box-sizing: border-box;
   }
   body{
-    background: #358eca;
+    background: #66b55e;
     font-family: 'Poooins',sans-serif;
   }
   header{
@@ -86,13 +86,13 @@ html{
     grid-area: profile;
   }
   .skills{
-    background: #3c6382;
+    background: #40395f;
     color: white;
     padding: 2rem;
     grid-area: skills;
   }
   .edu{
-    background: #3c6382;
+    background: #82723c;
     color: white;
     padding: 2rem;
     grid-area: edu;
@@ -112,13 +112,13 @@ html{
   }
   .achieve{
     font-size: 20px;
-    background: #3c6382;
+    background: #513c82;
     color: white;
     padding: 2rem;
     grid-area: exp;
   }
   footer{
-    background: #3c6382;
+    background: #3c7482;
     color: rgb(247, 250, 250);
     padding: 2rem;
     grid-area: footer;
@@ -136,7 +136,7 @@ html{
   .profile a{
     text-decoration: none;
     color: rgb(254, 255, 255);
-    background: #0a3d62;
+    background: #0a1f62;
     padding: 0.5rem 0.7rem;
   }
   .skills div{
